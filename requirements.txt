@@ -1,0 +1,7 @@
+groq
+pyttsx3
+SpeechRecognition
+noisereduce
+numpy
+requests
+pyaudio
