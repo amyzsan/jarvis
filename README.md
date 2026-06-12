@@ -142,8 +142,8 @@ Open `jarvis_config.py` and edit accordingly.
 ## License
 
 Feel free to use, modify, and build on this project! 
-Started project on 15th Jan 2025
-Ended on 12th June 2026
-Leaving now
+Started project on 15th Jan 2025.
+Ended on 12th June 2026.
+Leaving now.
 Regards,
 Amy.
